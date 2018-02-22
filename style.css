@@ -1,0 +1,34 @@
+.wraper{
+  border: 5px solid black;
+  background: #FFE1DC;
+  width: 1000px;
+   height: 1000px;
+}
+header .headercointainer *{
+  width: 20%;
+  height: 100px;
+  float: left;
+  margin: auto;
+}
+header .headercointainer .video-preview1{
+  background-image: url(img/video-preview1.jpg);
+  background-size: cover;
+}
+header .headercointainer .video-preview2{
+  background-image: url(img/video-preview2.jpg);
+  background-size: cover;
+}
+header .headercointainer .video-preview3{
+  background-image: url(img/video-preview3.jpg);
+  background-size: cover;
+
+
+}
+header .headercointainer .video-preview4{
+  background-image: url(img/video-preview4.jpg);
+  background-size: cover;
+}
+header .headercointainer .video-preview5{
+  background-image: url(img/video-preview5.jpg);
+  background-size: cover;
+}
