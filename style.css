@@ -58,8 +58,21 @@ position: right;
   width:100%;
   height: 50px;
 }
+.blocco3 *{
+  display: inline-block;
+}
+
 .menu {
   border: 1px solid grey;
-  width: 200px;
-  height: 800px;
+  width: 25%;
+  height: 600px;
+  float: left;
+}
+
+.centralcontainer{
+  border: 1px solid grey;
+  width: 45%;
+  height: 600px;
+  float: left;
+  margin-left: 2.5%;
 }
